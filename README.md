@@ -1,5 +1,5 @@
 # Analysis-on-NFL-Players
-This repository contains the notebook that was submitted to the NFL Team as part of a competition that was conducted on Kaggle. The competition type is analytics competition, so only Data Analysis was done. 
+This repository contains the notebook that was submitted to the NFL Team as part of a competition that was conducted on Kaggle. The competition type is analytics competition, so only Data Analysis was done. I used my data cleaning and visualization skills in this project.
 
 ## A little Peek of the notebook:
  
